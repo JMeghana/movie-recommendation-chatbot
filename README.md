@@ -1,7 +1,5 @@
 # Movie Recommendation Chatbot
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movie-recommendation-chatbot-aqnuajfnxg7lgagnhampyu.streamlit.app/)
-
 Welcome to the Movie Recommendation Chatbot project! This is an interactive movie recommendation system that suggests top movies based on your preferences, genres, actors, directors, or any movie-related queries.
 
 ## Features
@@ -12,13 +10,13 @@ Welcome to the Movie Recommendation Chatbot project! This is an interactive movi
 
 ## Live Demo
 
-You can access the live demo of the Movie Recommendation Chatbot using the following link:
+You can access the live demo of the Movie Recommendation Chatbot on YouTube:
 
-[Movie Recommendation Chatbot - Live Demo](https://movie-recommendation-chatbot-aqnuajfnxg7lgagnhampyu.streamlit.app/)
+[![Demo Video](https://img.youtube.com/vi/mDBW0yQl2VQ/0.jpg)](https://youtu.be/mDBW0yQl2VQ)
 
 ## How to Use
 
-1. Open the [Movie Recommendation Chatbot](https://movie-recommendation-chatbot-aqnuajfnxg7lgagnhampyu.streamlit.app/) in your web browser.
+1. Open the Movie Recommendation Chatbot in your web browser.
 2. Enter your movie preferences or any movie-related query in the input prompt.
 3. Explore the recommended movies and find your next favourite!
 
