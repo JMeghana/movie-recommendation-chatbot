@@ -14,10 +14,10 @@ from gensim.parsing.preprocessing import remove_stopwords
 import streamlit as st
 pd.pandas.set_option('display.max_columns',None)
 
-movies_data = pd.read_csv(r'C:\Users\j_meg\StreamLit_MJ\movie-recommendation-chatbot\data\movies_metadata.csv')
-link_small = pd.read_csv(r'C:\Users\j_meg\StreamLit_MJ\movie-recommendation-chatbot\data\links_small.csv')
-credits = pd.read_csv(r'C:\Users\j_meg\StreamLit_MJ\movie-recommendation-chatbot\data\credits.csv')
-keyword = pd.read_csv(r'C:\Users\j_meg\StreamLit_MJ\movie-recommendation-chatbot\data\keywords.csv')
+movies_data = pd.read_csv('movie-recommendation-chatbot\data\movies_metadata.csv')
+link_small = pd.read_csv('movie-recommendation-chatbot\data\links_small.csv')
+credits = pd.read_csv('movie-recommendation-chatbot\data\credits.csv')
+keyword = pd.read_csv('movie-recommendation-chatbot\data\keywords.csv')
 
 # Removing rows with the index labels 19730, 29503, and 35587
 movies_data = movies_data.drop([19730, 29503, 35587])
