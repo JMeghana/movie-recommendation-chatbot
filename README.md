@@ -26,14 +26,12 @@ You can access the live demo of the Movie Recommendation Chatbot using the follo
 
 To run the Movie Recommendation Chatbot locally, follow these steps:
 
-1. Clone the repository from GitHub:
+1. Clone the repository from GitHub
+2. Change the current directory to the project folder
+3. Install the required packages using `pip`
+4. Run the Streamlit app locally
 ```bash
 git clone https://github.com/JMeghana/movie-recommendation-chatbot.git
-2. Change the current directory to the project folder:
-```bash
 cd movie-recommendation-chatbot
-3. Install the required packages using `pip`:
-```bash
 pip install -r requirements.txt
-4. Run the Streamlit app locally:
 streamlit run app.py
